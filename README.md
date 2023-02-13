@@ -6,6 +6,7 @@ Utilizei o framework Laravel na versão 8, MySQL para o banco de dados e o frame
 
 Usuário inicial:
 
+http://52.91.174.190/
 admin
 admin
 
